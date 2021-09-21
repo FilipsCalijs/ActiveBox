@@ -254,7 +254,17 @@ p {
     text-transform: uppercase;
 }
 
+.team{
+    margin: 100px 0;
+}
+.team__inner{
+    display: flex;
+    flex-wrap: wrap;
+}
 
+.team__item{
+    width: 25%;
+}
 
 
 /* intro
